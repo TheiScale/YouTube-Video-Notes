@@ -1,0 +1,21 @@
+customer_id,amount,mode,payment_date
+1,45,Cash,24-09-2025
+2,60,Credit Card,27-04-2025
+3,90,Credit Card,07-07-2025
+4,55,Debit Card,12-02-2025
+5,44,Mobile Payment,20-11-2025
+6,75,Debit Card,28-06-2024
+7,25,Cash,25-08-2024
+8,65,Mobile Payment,17-06-2024
+9,45,Cash,25-08-2024
+10,55,Mobile Payment,03-11-2024
+11,70,Cash,01-11-2023
+12,45,Netbanking,11-09-2023
+13,30,Netbanking,10-12-2023
+14,50,Credit Card,14-05-2023
+15,25,Credit Card,25-09-2023
+16,45,Debit Card,28-06-2024
+17,60,Cash,25-08-2024
+18,80,Mobile Payment,17-06-2024
+19,70,Cash,25-08-2024
+20,55,Mobile Payment,03-11-2024
